@@ -12,7 +12,8 @@ What the network will look like:
 - Only admin and employees can make transactions on the network.
 - Admin can add new tasks to the pool.
 - Admin can add new employees to the system.
-- When an employee is added, to make transactions and will also mint 15 native tokens to the employee.
+- When an employee is added, they should be able to make transactions on the subnet.
+- When an employee is added, the system should mint 15 tokens to them.
 - Admin can remove employees from the system. The employee won't be able to make transactions anymore.
 - Employees must choose a task from the pool.
 - After a task is completed, the employee can submit it for approval.
