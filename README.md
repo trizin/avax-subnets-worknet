@@ -8,8 +8,8 @@ I think the best way of learning is by practice.
 
 In this tutorial, we will create a subnet for doing freelance style work management, which we will call **Worknet**.
 
-What the network will look like:
-- Only admin and employees can make transactions on the network.
+What will the project look like at the end:
+- Only admin and employees can make transactions on the subnet.
 - Admin can add new tasks to the pool.
 - Admin can add new employees to the system.
 - When an employee is added, they should be able to make transactions on the subnet.
